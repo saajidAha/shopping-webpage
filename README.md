@@ -1,4 +1,4 @@
-# Interactive Shopping cart Webpage
+# Interactive Shopping Cart Webpage
 
 Add-to-cart, basket summary, checkout summary, customer info collection features included.
 Tools used for the project: HTML, CSS, & JavaScript.
